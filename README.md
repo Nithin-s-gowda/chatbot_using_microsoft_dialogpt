@@ -3,22 +3,6 @@ DialoGPT is a large-scale pre-trained dialogue response generation model develop
 
 DialoGPT is trained on a massive dataset of 147 million multi-turn dialogues from Reddit discussion threads, allowing it to learn the nuances of human conversation and generate responses that are contextually relevant and coherent.
 
-# Getting Started
-
-# Requirements
-Install the required dependencies by running 
-
-  '''
-  $ pip install -r requirements.txt
-  '''
-  
-# Running the Chatbot
-Execute below code to start the chatbot
-
-'''
-$ python app.py
-'''
-
 ### How to run it on your own machine
 
 1. Install the requirements
@@ -30,5 +14,5 @@ $ python app.py
 2. Run the app
 
    ```
-   $ streamlit run streamlit_app.py
+   $ python app.py
    ```
