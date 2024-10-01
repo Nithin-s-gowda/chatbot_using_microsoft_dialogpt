@@ -16,3 +16,4 @@ DialoGPT is trained on a massive dataset of 147 million multi-turn dialogues fro
    ```
    $ python app.py
    ```
+![WhatsApp Image 2024-09-29 at 20 30 36_32906316](https://github.com/user-attachments/assets/004356cb-7bd9-46e1-abde-45a77da9328b)
