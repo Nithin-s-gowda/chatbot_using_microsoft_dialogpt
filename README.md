@@ -7,11 +7,28 @@ DialoGPT is trained on a massive dataset of 147 million multi-turn dialogues fro
 
 # Requirements
 Install the required dependencies by running 
-'''
-$ pip install -r requirements.txt
-'''
+
+  '''
+  $ pip install -r requirements.txt
+  '''
+  
 # Running the Chatbot
 Execute below code to start the chatbot
+
 '''
 $ python app.py
 '''
+
+### How to run it on your own machine
+
+1. Install the requirements
+
+   ```
+   $ pip install -r requirements.txt
+   ```
+
+2. Run the app
+
+   ```
+   $ streamlit run streamlit_app.py
+   ```
